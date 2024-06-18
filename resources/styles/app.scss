@@ -1,0 +1,11 @@
+
+// tailwind 
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// components
+@import './components/header';
+@import './components/footer';
+
+@import './components/wysiwyg';
