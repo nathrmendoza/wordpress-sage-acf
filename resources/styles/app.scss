@@ -1,11 +1,20 @@
+// reset
+@import './global/global.reset';
 
 // tailwind 
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+// globals
+@import './global/global.variables';
+@import './global/global.typography';
+@import './global/global.styles';
+
 // components
 @import './components/header';
 @import './components/footer';
 
 @import './components/wysiwyg';
+@import './components/basic-hero';
+@import './components/two-column';
