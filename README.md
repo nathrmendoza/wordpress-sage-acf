@@ -1,5 +1,5 @@
 # SAGE x ACF
-A theme boilerplate based on roots.io sage and advanced custom fields plugin.
+A wordpress theme boilerplate based on roots.io sage and advanced custom fields plugin.
 
 ## How it works
 This theme will require you to have ACF, if you're using bedrock add it as a dependency via composer Here's a [packagist link](https://packagist.org/packages/wordpress-premium/advanced-custom-fields-pro) for it. Alternatively, manually install it via plugins on dashboard. This theme utlizes laravel blade templates using roots.io acorn. For styling I've implemented both SASS and Tailwind CSS.
